@@ -59,7 +59,7 @@ Ensure you have the following installed:
 ### Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/hybrid-caesar-polybius-cipher.git
+   git clone https://github.com/your-username/hybrid-caesar-polybius-cipher-application.git
 # Hybrid Caesar-Polybius Cipher  
 A Web-Based Cryptography Tool  
 
